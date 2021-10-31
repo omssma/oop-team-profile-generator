@@ -1,8 +1,12 @@
+* {
+  font-family: 'Indie Flower', cursive;
+}
+
 .team-heading {
-    background-color: #e84855;
+    background-color: #977813;
     color: #ffffff;
   }
-  
+
   .team-area {
     max-width: 1000px;
     margin: 3em auto;
@@ -11,23 +15,27 @@
   
   .employee-card {
     margin: 1em;
-    max-width: 280px;
+    max-width: 300px;
     width: 90%;
-    min-height: 22rem;
-    background-color: #007bff;
-    color: white;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.7);
+    background-color: #e7c95d;
+    color: rgb(0, 0, 0);
+    box-shadow: 4px 4px 8px rgba(73, 51, 3, 0.7);
     border: none;
+    min-height: 22rem;
+  }
+
+  .card-title {
+    padding-left: 55px;
   }
   
   .card-body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    background-color: #f6f7f8;
+    background-color: #eee9df;
   }
   
   .list-group-item {
