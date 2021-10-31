@@ -1,7 +1,7 @@
 {
   "name": "module-10-oop",
   "version": "1.0.0",
-  "description": "htttp://github.com/omssma/oop-team-profile-generator",
+  "description": "https://github.com/omssma/oop-team-profile-generator",
   "main": "index.js",
   "directories": {
     "lib": "lib"
