@@ -18,7 +18,7 @@ https://github.com/omssma/oop-team-profile-generator/lib/index.html
 
   ### Installation:
   Need to install Jest so as to perform tests on the __test__ js files. Start by using npm init -y, npm inquirer, npm test, then node index.js to start the testing and prompting users to start creating the team profile.
-  You will need to have Node installed on your computer. Begin by cloning this repository to your local machine. Once you have done that, navigate to the root directory of the project in your terminal and run the following commands:
+  You will need to have Node installed on your computer. Begin by cloning this repository to your local machine. Once you have done that, navigate to the root directory of the project in your terminal and run the following commands:-
 
   <!-- install dependencies -->
 
