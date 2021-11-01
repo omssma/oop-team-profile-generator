@@ -6,6 +6,7 @@ https://github.com/omssma/oop-team-profile-generator
 
   ## Video Demo
   https://www.youtube.com/watch?v=ZkYTem-E_lY
+  
   ### Table of Cotents:
   * [Installation](#installation)
   * [Usage](#usage)
@@ -38,7 +39,7 @@ https://github.com/omssma/oop-team-profile-generator
   An HTML file will then be generated based on user input and should appear in the 'output' folder. Open the HTML file in a browswer to view your teams generated roster.
 
   ### Credits
-  Studied GitHub forums, Firefox Developer Tools, and freecodecamp.
+  Studied GitHub forums, Firefox Developer Tools, Stackoverflow and freecodecamp.
 
   ### License:
   This project is licensed under the MIT license.
