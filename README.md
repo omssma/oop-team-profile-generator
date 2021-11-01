@@ -1,5 +1,5 @@
 ### OOP-Team Profile Generator
-https://github.com/omssma/oop-team-profile-generator
+https://github.com/omssma/oop-team-profile-generator/lib/index.html
 
   ### Description
   This projects is concerned with creating a professional profile for team using Node.js commandline application that allows users to enter information about their team and then generate and html webpage to display the inserted information.
