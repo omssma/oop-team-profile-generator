@@ -32,7 +32,7 @@
   ### Usage:
   Invoke the applicaton with the command
 
-  node app.js
+  node index.js
 
   Answer the prompts that appear in the command line. You will be asked to add a manager, engineer, and/or intern. From there, you may enter each employee's email, Id, and role within the team. After completing these steps, this message will appear in the terminal: "A file containing your roster has been generated!" If there is an error in generating this file, an error message will appear in the terminal.
 
